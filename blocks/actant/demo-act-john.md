@@ -1,0 +1,1 @@
+This entry opens whenever you click John Doe's linked name in a scene. Keep character notes here: role, voice, relationships, open questions. The notebook "Using Notebooks" backs this entry, so it is listed on this page as backing research. Use /autolinks to add more link words for this character.

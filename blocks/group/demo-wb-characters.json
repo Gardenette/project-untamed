@@ -1,0 +1,30 @@
+[
+  {
+    "id": "e8b724d4-cd41-4ce2-ba64-c3d2825c77c0",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Character entries live here. Each one powers auto-linking, hover previews, and references wherever its name appears in a scene.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1a303594-9d0c-423f-b558-869fc140cace",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

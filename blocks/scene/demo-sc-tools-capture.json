@@ -1,0 +1,331 @@
+[
+  {
+    "id": "2eae66c0-2b50-441a-822c-8bb60a803c13",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Ideas often arrive while you are busy writing something else. ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Brain Dump",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " captures your ideas without ever leaving the scene or even taking your fingers off of the keyboard.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "92ced0a5-e408-4b50-b7c3-96bbf3e9eaae",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Type ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/dump",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " to quickly dump an idea without ever having to click away from the current active editor. The cursor automatically flows from the editor to your Brain Dump text area, then back to the same position within the editor when the Brain Dump is either captured or dismissed.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4bcb4366-290e-4b16-91ef-e6f53a5f01f4",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-37.png",
+      "url": "assets/image-37.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "18ee3e9e-441f-416e-87d5-7d342812255e",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-38.png",
+      "url": "assets/image-38.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "7f2396e7-3d6d-4936-9aa8-95755c4002e4",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "d20da848-d0eb-4675-b521-4ccb2ea42653",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Recalling Ideas",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "89e96ed4-e8d8-4067-bb84-b21dc206e622",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "To recall ideas that were created with ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/dump",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", invoke ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/sift",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " to surface all of your brain dump ideas. Your entries are sorted by their proximity to the current active document. If you created a Brain Dump idea in Chapter 1, that idea floats to the top of your ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/sift",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " stack while you're writing Chapter 1.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b95f94cf-9327-4149-9fc3-41873fbcb3a3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "753bf1c4-97c5-47be-85b9-6ffbddc47df5",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Sifted ideas display in carousel view by default.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c4d86aba-751c-47e5-823a-d2e41b7a71b5",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-39.png",
+      "url": "assets/image-39.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "3012a6cd-8368-4989-acca-fd13e25bc2ea",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "aa0f644b-feba-4274-95d6-0dcd57cf482b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Change the sift display by clicking the flat view icon in the Sift popup.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4fe71cfe-6377-40f0-9643-083c0a6277e2",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-40.png",
+      "url": "assets/image-40.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "5fe0a704-a1ea-43e8-acf6-ed381d2995f1",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "1cf13959-3f31-416f-842d-9959c7c3fdce",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Flat view displays sift contents in a flat list.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "052e2246-e4dd-4a14-9259-a922e912601c",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-41.png",
+      "url": "assets/image-41.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "6f7d4762-39c3-4eb4-af05-0f640bf44b7f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "d9f558ce-608b-4156-9b38-0a99379e88f0",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Extra line",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8108d1a8-b705-4f08-b4f3-2c504c3b9a06",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

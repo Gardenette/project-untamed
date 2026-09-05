@@ -1,0 +1,1054 @@
+[
+  {
+    "id": "575d1184-b6c5-48f1-ac1a-b8c549885bda",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Focus Mode removes distractions and allows the writer to focus on only the words on the page (or even the specific paragraph that they're writing).",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2a261a46-da0e-4364-9dec-8936e3bcdc71",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "2482a59f-0c35-4242-995c-ea9e7e44c436",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Entering Focus Mode",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "52526cfb-0d4e-49b6-bb2e-c19bdcb92638",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Enter Focus mode in one of three ways:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9a112335-cdbe-4df0-ae0f-74d5400aaa23",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Click the \"Focus Mode\" toggle in the upper-right corner of the title bar.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "f5d0b305-d580-4d61-b900-e0f97989fc71",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-42.png",
+      "url": "assets/image-42.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "b1715eae-3008-4b74-8cf6-322dfee8fbac",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "0c488ea0-9758-4500-96cd-5dc2afaae0dd",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "start": 2
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Type ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/focus",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " in the editor and select ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Focus Mode",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " by clicking the option or pressing Enter.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a0e92741-b505-40a5-acfe-033c539c4410",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-43.png",
+      "url": "assets/image-43.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "3e2d4832-1b89-4b65-931b-ddafa8a8ebcb",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "start": 3
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Press ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Ctrl",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " + ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Shift",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " + ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "F",
+        "styles": {
+          "code": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b4efe7ab-9056-42b0-8d3e-567d0b2a4159",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "6f2337af-097a-4d1e-87a2-124b3140e6b7",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Exiting Focus Mode",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "002066f7-16e1-40b0-8109-01b61e908024",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Press ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Esc",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " , or:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "f7e0baa6-dd5d-4f85-aaac-8a8d758d1dc0",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "While in Focus Mode, hover the mouse near the bottom of the screen. This will open a Focus Mode Options menu. Press the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "x",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "  button to exit.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b819a54e-2ce7-46a3-8fb8-78deab8316b3",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-44.png",
+      "url": "assets/image-44.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "985c182b-8c8f-48e2-aad0-4afac73762ee",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "fd904f41-6342-4019-9aea-6de6b42735eb",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Focus Mode Features",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4442fd37-41bd-4700-b556-aa1952265f5d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Focus Mode contains several tools to help writers focus on writing and compartmentalize writing tasks. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c466eca8-673e-40ab-a92e-128ae9b13c0a",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "f8e2476e-1ad3-4fc3-bb87-797d2184c921",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Typewriter Positioning",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0c1505ca-a245-44a4-8b60-763d5db4c5e3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "By default, Focus Mode uses Typewriter Positioning to ensure that the caret never drops below the writer's eye level. As you type in Focus mode, each new line pushes previous content up in the Editor. Your eyes only ever need to move left-to-right, never up or down while you type.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0014167e-02dd-4cd5-92a0-c16e54192e14",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "ee24ea91-06fb-459c-9fc4-057abde0ff54",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Eye-Level Positioning",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "3e6d294b-320c-48ca-a7a6-3ac9c31363bd",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Position the caret's vertical orientation relative to your screen's size and orientation: while in Focus Mode, hover the mouse to the right edge of the screen. This reveals a vertical drag handle that you can drag to align the line that you're typing with where your eyes naturally rest on your monitor. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a0a9e9a3-6a2b-4e91-8663-9112e6921ba7",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-45.png",
+      "url": "assets/image-45.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "badfd842-f7a8-4656-b654-e43aca850dc9",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "a50be51d-01ff-476b-b0b0-6cf35f196c30",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "6af09e82-64d9-4987-b57c-928417e01c4a",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Page Width",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "26eafaea-0346-4cfa-b165-7d248ccb1db6",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "To adjust the size of the page in Focus Mode, hover the cursor towards the bottom of the screen. Three sizes will be revealed: ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "N",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " (narrow), ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "M",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " (medium), ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "W",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " (wide). Your selection persists across sessions and projects.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "525021b2-a90a-42c3-8c20-1ce9df3484d7",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-46.png",
+      "url": "assets/image-46.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "a9c71288-f74a-45e5-b4ed-5f1120e7da9b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "81c3fc1c-ffe6-4282-885c-b44f3c0a310d",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "dea25603-d512-4f3a-8ff9-e7dfaea07466",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Writing Sprints",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "96507cf6-aad8-4dcd-a7fa-81bb5bd2ed9c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Foma is equipped with a writing sprint timer that kicks off in Focus Mode. Begin a writing sprints in two ways:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "49a23552-a9b9-48b0-8da4-ad152b37246a",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "While in Focus Mode, hover the cursor towards the bottom of the screen to reveal Focus Mode options and click the Stopwatch. This reveals a time selection. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "22c04a34-8740-4272-8038-dda54d48f31b",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-47.png",
+      "url": "assets/image-47.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "96c6798a-a329-4eec-a22d-c98d2ea1df4e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Choose your desired time increment. Then, click the \"play\" icon to start the timer.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "379b4b7c-991c-4bd8-853a-4b695dbb7aa2",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-49.png",
+      "url": "assets/image-49.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "ad33f5f7-4284-4a89-a0a4-b3ed0253cfc6",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "de3e4069-9193-49ad-a9bf-e7443eb69211",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "start": 2
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Type ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/sprint",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " and press Enter.  ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "fa0f23e3-5273-4038-b070-fb8f2b7430ba",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-50.png",
+      "url": "assets/image-50.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "0f5cceae-cc72-4166-8889-7e7a631e9dde",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Then, type a time increment and press Enter:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c48fef96-35f0-4a91-ac8a-b57305fefcd5",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-51.png",
+      "url": "assets/image-51.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "f1a09c7c-45e8-45ca-a4df-025ed4cd6902",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "f7da3851-a3b6-48ec-be8f-0c5cea78a09c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "If ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/sprint",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " was invoked while the editor is not in Focus Mode, entering a time interval and pressing Enter will automatically enter Focus Mode with a timer set to that interval. The timer will begin on the first keystroke.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "26ecc68d-2d5c-4c3d-bc15-21111570f864",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "94f2257d-208a-4e51-a6f3-7e370f87706d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Alternatively, type ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/sprint<n>",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " where ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "n",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " is the desired time interval. For example, ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/sprint20",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " will enter Focus Mode and queue a 20-minute writing sprint that begins on the first keystroke.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d301573f-6bf3-4ed9-8bd0-626dd1846aa5",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-52.png",
+      "url": "assets/image-52.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "ca14ea4d-9371-4871-97b7-e4218233e850",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "15f4474a-c628-4102-a7b6-2ff269beb56c",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Timers & Word Counts",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2cd94553-d321-4c9f-9e4a-30a450f6a713",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The sprint timer appears in the top-center of the screen.  Sprint word counts appear in the top-right next to the total word count of the current document.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "de82f94a-8a8f-4b0f-bdfd-8b3429585ca8",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-53.png",
+      "url": "assets/image-53.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "74878587-c844-4abd-8a8e-b6eb2a2c0a87",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-54.png",
+      "url": "assets/image-54.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "f6a48714-42ef-41bb-8dab-f0a6160cbeaa",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "8dbacc4f-d84d-4877-a95c-e07d6917223d",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Focus Dimming",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "34c0aa8c-4370-4794-bcaa-1c6bc4bc7551",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "While in Focus Mode, type ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/dim",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " to apply Focus Dimming to the current session. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "74d761dd-c39c-4d32-bb35-e0bec1825b01",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-55.png",
+      "url": "assets/image-55.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "30efec0d-6ba5-4251-a0e1-d543d0625234",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "b087a102-c09e-4e7a-b3e7-fe8912c68baa",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Focus Dimming dulls all text on the screen except for the current paragraph: ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "54a84619-97fa-47cb-8b20-8b3a54713062",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-56.png",
+      "url": "assets/image-56.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "edc43638-ef62-4969-a33c-94e1674b56ce",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

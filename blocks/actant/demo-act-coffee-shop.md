@@ -1,0 +1,1 @@
+A location entry. Locations work like characters: link words, aliases, and a page for rules, continuity notes, and details scenes can reuse.

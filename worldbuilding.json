@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "id": "demo-wb-characters",
+      "type": "group",
+      "title": "Characters",
+      "defaultChildType": "actant",
+      "defaultActantClass": "character",
+      "children": [
+        {
+          "id": "demo-act-john",
+          "type": "actant",
+          "title": "John Doe",
+          "class": "character",
+          "aliases": [
+            "John"
+          ],
+          "autoLinkWords": [
+            "John Doe",
+            "John"
+          ]
+        },
+        {
+          "id": "demo-act-jane",
+          "type": "actant",
+          "title": "Jane Doe",
+          "class": "character",
+          "aliases": [
+            "Jane"
+          ],
+          "autoLinkWords": [
+            "Jane Doe",
+            "Jane"
+          ]
+        },
+        {
+          "id": "blk-0bb7736f-8c81-40a6-86f9-599c47362123",
+          "type": "actant",
+          "title": "Professor Gregory",
+          "class": "character",
+          "children": [],
+          "autoLinkWords": [
+            "Prof. Gregory",
+            "Gregory",
+            "Greg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demo-wb-locations",
+      "type": "group",
+      "title": "Locations",
+      "defaultChildType": "actant",
+      "defaultActantClass": "location",
+      "children": [
+        {
+          "id": "demo-act-coffee-shop",
+          "type": "actant",
+          "title": "The Coffee Shop",
+          "class": "location",
+          "aliases": [
+            "coffee shop"
+          ],
+          "autoLinkWords": [
+            "The Coffee Shop",
+            "coffee shop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demo-wb-objects",
+      "type": "group",
+      "title": "Objects",
+      "defaultChildType": "actant",
+      "defaultActantClass": "item",
+      "children": [
+        {
+          "id": "demo-act-umbrella",
+          "type": "actant",
+          "title": "The Umbrella",
+          "class": "item",
+          "aliases": [
+            "umbrella"
+          ],
+          "autoLinkWords": [
+            "The Umbrella",
+            "umbrella"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demo-wb-notes",
+      "type": "group",
+      "title": "Story Notes",
+      "defaultChildType": "note",
+      "children": [
+        {
+          "id": "demo-note-start",
+          "type": "note",
+          "title": "Demo checklist"
+        }
+      ]
+    }
+  ]
+}

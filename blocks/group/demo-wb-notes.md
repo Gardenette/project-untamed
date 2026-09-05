@@ -1,0 +1,1 @@
+Author-facing notes. These are not manuscript prose: checklists, reminders, experiments. The Demo checklist lives here.

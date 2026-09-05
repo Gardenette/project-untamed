@@ -1,0 +1,1 @@
+Object entries. Objects that matter structurally can carry their own *Threads* — see The Umbrella.

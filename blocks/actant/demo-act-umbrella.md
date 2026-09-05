@@ -1,0 +1,1 @@
+An object entry. The *Thread* "The umbrella pays off later" tracks this object from planted detail to payoff — open /threads to see it.

@@ -1,0 +1,884 @@
+[
+  {
+    "id": "demo-sc-thread-plant-p1",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "A ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread ",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "tracks a promise to the reader: a detail planted early that should matter later. Pins mark where each beat of a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " lands in the manuscript.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-sc-thread-plant-p2",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The passage below is a planted detail. This scene holds the \"plant\" pin of the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " \"The umbrella pays off later.\"",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-sc-thread-plant-p3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "fomaEmbed",
+        "props": {
+          "blockId": "demo-act-john",
+          "blockTitle": "John Doe",
+          "blockType": "actant",
+          "bold": "false",
+          "italic": "false",
+          "strikethrough": "false",
+          "code": "false"
+        }
+      },
+      {
+        "type": "text",
+        "text": " left ",
+        "styles": {}
+      },
+      {
+        "type": "fomaEmbed",
+        "props": {
+          "blockId": "demo-act-umbrella",
+          "blockTitle": "The Umbrella",
+          "blockType": "actant",
+          "bold": "false",
+          "italic": "false",
+          "strikethrough": "false",
+          "code": "false"
+        }
+      },
+      {
+        "type": "text",
+        "text": " at ",
+        "styles": {}
+      },
+      {
+        "type": "fomaEmbed",
+        "props": {
+          "blockId": "demo-act-coffee-shop",
+          "blockTitle": "The Coffee Shop",
+          "blockType": "actant",
+          "bold": "false",
+          "italic": "false",
+          "strikethrough": "false",
+          "code": "false"
+        }
+      },
+      {
+        "type": "text",
+        "text": " and did not notice for three days.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-sc-thread-plant-p4",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Try this: type ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/threads",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " to open the Thread Manager and select \"The umbrella pays off later.\" Its pin list shows this scene as the plant and the next scene as the payoff. Click a pin to jump to its scene.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "36ebded4-d2c1-43b2-b2d5-4562f8dbea75",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "66fedbac-1940-4d76-9c10-a2a0a29cfac3",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Thread Types",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b4700119-c608-49f6-badd-7b56282ce94a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Foma has an assortment of common literary devices pre-loaded as ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " types. Click the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "+",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " next to the Threads domain in the side bar to inspect them. Hover the cursor over a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " type to read the description. For game designers, Quest progression ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Threads",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " are also available. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "974e612e-cdc5-4bdd-90be-b22e3c3de8a2",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "28253378-7163-48da-bd82-af8160736486",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Pinning",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "01ef40a7-0b6e-45f2-8986-76eda0c58ed9",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Pins can be placed at four levels: Manuscript, Chapter, Scene, or Text.  This is because some ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " types are best tracked at the sentence level while some are best tracked at a \"container\" level. For example, a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " that tracks a character's ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Transformation Arc",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " might best be placed in a chapter or scene to suggest that this chapter or scene represents one state of the character's transformation. A ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Callback",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " is more likely to be tracked to a sentence or paragraph. A ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Red Herring",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " might be tracked to a Chapter, Scene, or Paragraph, depending on how the writer organizes their work.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0f623b64-eabb-4f80-bd77-3c104e0ffd69",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "74927446-287f-4472-afa6-c7cc19505b34",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "There is a text-level pin placed on this sentence tied to a Plant  & Payoff ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " named \"Understanding Threads & Pins\". If you don't see a green Pin icon and the previous sentence highlighted in green, click the \"eye\" icon beneath the Pincushion to view all of the Pins that are pinned to this scene.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "27b0701d-e39a-461c-9043-b56cbc08969c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "317035f7-a689-4f62-a436-6012cc6ad997",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "A ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " can be created by clicking the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "+",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " in the Threads domain of the side bar. Pins can be added to a given ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " by navigating to the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "'s block in the side bar and clicking the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "+",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " in the Pins section. It looks like this:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "93718a52-b8b8-4fb1-90d0-3418a0a2ef88",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image.png",
+      "url": "assets/image.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "f11b7a0c-4c47-4e1c-a1c0-780bd4891906",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "a5edcc2c-324b-46f5-8283-42cd7412e7dc",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Pins can be placed in a number of ways. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "943e5b0e-bdf9-4cb1-91af-6fa86ba5ecba",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "These are the most common.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b90cf71d-c497-473e-960a-cddcea30eadc",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "For sentence-level pins, highlight a selection of text, then click the \"pin\" icon in the formatting bar as shown below:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "f5223e04-4333-4d0e-88cf-5591007304ce",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-5.png",
+      "url": "assets/image-5.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "ac9c645d-c947-4785-8766-35484d18fdd9",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "d0f31d87-0c28-4cc8-97aa-fefecf9b5d3b",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "start": 2
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "For scene-level pins, click on the Pincushion and drag the pin from the pincushion to the title of the scene. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "7bf2b1fe-e859-446f-bd76-1bd8728b1463",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-6.png",
+      "url": "assets/image-6.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "528d7a9d-5f18-4c21-a189-72512f656c22",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Pins that have been placed at the scene-level are pinned just beneath the Pin Tray.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8a465cf0-ad26-446e-839d-f29c7be6df21",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-7.png",
+      "url": "assets/image-7.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "83362b73-90d1-485c-940e-f6d213bfd5a0",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "c2275abf-f4ba-44f9-8d6d-b71319abeddf",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "start": 3
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Pins can also be dragged from one zone to another. Click + drag a pin to its new location, then press ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Enter",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " or click \"yes\" to confirm.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "aba58606-d99f-49ad-a3a1-e514643492e0",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "ed4ecd2e-6613-433b-bf49-367b2b36b77e",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "88d215e9-e9a2-40ce-848f-21b264f1ab11",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The Pincushion",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "72e16f0d-2f06-4224-b297-99cda0e43ae0",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-4.png",
+      "url": "assets/image-4.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "6cf33982-7cda-43ec-ac08-8bb387881305",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The Pincushion is a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Thread",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " management tool that floats on top of the editor surface for any chapter or scene on which pins have been defined. It typically lives to the right of the title of the scene and scrolls with the page, but you can drag the pincushion to any place in the editor.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9b5b2aa0-408d-4e83-ab31-94eae0d157c2",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "08636617-1ca3-4313-a0a5-8c419ba72b94",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Click the eye icon beneath the pincushion to reveal all pins that have been pinned to the current chapter or scene and all of the pins that have been made available to the chapter/scene.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "3025b717-168b-4281-bb05-9c3b18f2d6e9",
+    "type": "callout",
+    "props": {
+      "textAlignment": "left",
+      "textColor": "default",
+      "icon": "💬"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "NOTE: If you don't see the pincushion icon floating in the editor, it is because the pincushion has been toggled off. Reveal it through",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Settings → Appearance → Show Pincushion",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ".",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "26f16d70-835b-4472-bb12-504fa06d001a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "a57bebcc-f588-4b3f-b116-977d4210988c",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-3.png",
+      "url": "assets/image-3.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "ce3c0ca8-0924-4cbd-b1e3-f4cd3ccc353c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

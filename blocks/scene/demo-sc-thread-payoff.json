@@ -1,0 +1,127 @@
+[
+  {
+    "id": "demo-sc-thread-payoff-p1",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "This scene holds the \"pay off\" pin: the moment a planted detail becomes useful.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-sc-thread-payoff-p2",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "fomaEmbed",
+        "props": {
+          "blockId": "demo-act-jane",
+          "blockTitle": "Jane Doe",
+          "blockType": "actant",
+          "bold": "false",
+          "italic": "false",
+          "strikethrough": "false",
+          "code": "false"
+        }
+      },
+      {
+        "type": "text",
+        "text": " opened the ",
+        "styles": {
+          "pinMark": "{\"pinId\":\"demo-pin-umb-payoff\",\"threadId\":\"demo-thread-umbrella\",\"color\":\"#81C784\"}"
+        }
+      },
+      {
+        "type": "fomaEmbed",
+        "props": {
+          "blockId": "demo-act-umbrella",
+          "blockTitle": "umbrella",
+          "blockType": "actant",
+          "bold": "false",
+          "italic": "false",
+          "strikethrough": "false",
+          "code": "false"
+        }
+      },
+      {
+        "type": "text",
+        "text": " just as the rain started. \"What would I do without my ",
+        "styles": {
+          "pinMark": "{\"pinId\":\"demo-pin-umb-payoff\",\"threadId\":\"demo-thread-umbrella\",\"color\":\"#81C784\"}"
+        }
+      },
+      {
+        "type": "fomaEmbed",
+        "props": {
+          "blockId": "demo-act-umbrella",
+          "blockTitle": "umbrella",
+          "blockType": "actant",
+          "bold": "false",
+          "italic": "false",
+          "strikethrough": "false",
+          "code": "false"
+        }
+      },
+      {
+        "type": "text",
+        "text": "?\" she asked.",
+        "styles": {
+          "pinMark": "{\"pinId\":\"demo-pin-umb-payoff\",\"threadId\":\"demo-thread-umbrella\",\"color\":\"#81C784\"}"
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-sc-thread-payoff-p3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "8a3a0491-5062-42ac-812f-9da717a384b9",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Try this: click the floating pincushion icon in the editor to open the Pincushion. It lists every pin anchored to this scene. Use the eye toggle on the icon to hide or show pins while you read.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "55e6fa6e-e253-4c46-84c1-a9993b24ecda",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

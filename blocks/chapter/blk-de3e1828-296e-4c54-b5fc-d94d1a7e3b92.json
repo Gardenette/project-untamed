@@ -1,0 +1,419 @@
+[
+  {
+    "id": "8330f408-8900-417e-81bb-7c55aedb1d2b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "This chapter covers how work is saved, versioned, and backed up in Foma.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8ff283cc-3fb7-4034-833f-c2451f7c5ce6",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "5084431d-2a97-4147-8380-2e6943439e7e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Foma automatically saves moments after the final keystroke in a unit of work. When Foma saves, it writes content directly to the user's disk using Markdown and JSON document formats to store writing, structure, and other data.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4ae7e3c9-9c97-4d4a-b84d-c5dba70442ee",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Foma also integrates with GitHub to provide robust, free, cloud-based version control for Foma projects. Please note that, while Foma never asks users to create an account or provide personal data, GitHub's services are subject to GitHub's own Terms of Service.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "f3d0e71e-822c-4a3f-a932-a78f5fd9afa9",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "GitHub is a trusted software industry standard for version control and cloud backup, but if you as the writer do not wish to use Foma's GitHub integration, consider saving your projects in a cloud service of your choice like Dropbox or OneDrive. In the future, Foma will integrate with other Git hosting platforms so that users can choose their preferred platform or self-host, but for the time being, GitHub is the integration.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "95796158-ce9a-44ba-93d7-0fa34aad04b4",
+    "type": "callout",
+    "props": {
+      "textAlignment": "left",
+      "textColor": "default",
+      "icon": "💬"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "NOTE: Do ",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "NOT",
+        "styles": {
+          "bold": true,
+          "italic": true,
+          "textColor": "red"
+        }
+      },
+      {
+        "type": "text",
+        "text": " ",
+        "styles": {
+          "italic": true,
+          "textColor": "red"
+        }
+      },
+      {
+        "type": "text",
+        "text": "use GitHub version control ",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "AND ",
+        "styles": {
+          "bold": true,
+          "italic": true,
+          "textColor": "red"
+        }
+      },
+      {
+        "type": "text",
+        "text": "OneDrive/Dropbox together for the same project. You ",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "WILL ",
+        "styles": {
+          "bold": true,
+          "italic": true,
+          "textColor": "red"
+        }
+      },
+      {
+        "type": "text",
+        "text": "suffer irretrievable data loss if you save your project to a OneDrive folder and commit/push its contents to GitHub since each service has its own way of determining the source of truth for the current project state and those determinations will fight with each other over which one wins out.",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "38d50f6b-2ef4-4fe7-b0a9-402cbf31f2c4",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "edee7a6c-9599-482d-ad6c-c1085a07de31",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "It is highly recommended to use Foma's GitHub integration to get the absolute most out of Foma's versioning features. Foma packages Git features in writer-friendly language and usage patterns to ensure that virtually NO unit of work can ever truly be lost and no change is impossible to rewind or back out of.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "45c03430-13ce-4502-8abb-c77b220bd61a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "8fdc3a39-b0d3-4ecd-828f-5632c91386ef",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Foma was designed with the Git-backed user in mind. Please review the following content to learn how to manage units of work and version control using Foma + Git.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1d88480b-0aea-4e9f-b49c-8d05bece2efb",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "c0d1a9b5-b259-40bf-ac94-c46b9ced8a10",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "In this chapter, try:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1cff6530-9e60-4051-a773-7096d215808b",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Connect Foma to your GitHub Account",
+        "styles": {}
+      }
+    ],
+    "children": [
+      {
+        "id": "eb7f6141-e4a7-433f-8847-9c196e6f698d",
+        "type": "checkListItem",
+        "props": {
+          "backgroundColor": "default",
+          "textColor": "default",
+          "textAlignment": "left",
+          "checked": false
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "*Note: Sign up for GitHub if you do not already have an account",
+            "styles": {
+              "italic": true
+            }
+          }
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "c17e0776-f0f1-44a5-b080-b5dbf72f399d",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Create a memory from the Loremaster's Memory menu with the \"Remember\" button",
+        "styles": {}
+      }
+    ],
+    "children": [
+      {
+        "id": "483fb983-df26-4089-917b-7cf8cf609e87",
+        "type": "checkListItem",
+        "props": {
+          "backgroundColor": "default",
+          "textColor": "default",
+          "textAlignment": "left",
+          "checked": false
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Sync that memory with the \"Sync to Archive\" button",
+            "styles": {}
+          }
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "460d65d2-6b2e-4d0c-a751-68ae3b9722e1",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Create and sync a memory in one action by using the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/save",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " or ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/memory",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " slash command",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "12078250-fd32-448e-b8a7-58a445018c59",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Add text to a scene and observe the save status indicator appear next to the scene in the side bar",
+        "styles": {}
+      }
+    ],
+    "children": [
+      {
+        "id": "4956011e-dc23-425c-97cd-41db0b811a26",
+        "type": "checkListItem",
+        "props": {
+          "backgroundColor": "default",
+          "textColor": "default",
+          "textAlignment": "left",
+          "checked": false
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Undo that work by hovering the title of the scene in the side bar and clicking the \"Discard changes\" button to rewind the scene to its last snapshot.",
+            "styles": {}
+          }
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "c1f05a45-ec3d-4dce-bc26-6a702c6a84dd",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Rewind your project to a previous state from the Loremaster's Memory menu by expanding a memory and clicking the \"Restore to this memory\" button",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d27165e4-3d31-4955-b1de-c832dcccf714",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

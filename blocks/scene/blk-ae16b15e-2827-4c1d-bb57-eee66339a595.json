@@ -1,0 +1,522 @@
+[
+  {
+    "id": "2ef11d58-37aa-431c-b094-d561155e58ff",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Sections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " and ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " created in the Story Arc view can be exposed in the side bar by toggling the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Structure Mode",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " view. Click the button next to the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Manuscript ",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "domain in the side bar to expose the structure that you defined in the Story Arc view.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "96044176-aad8-43df-ad98-87d3359dbb2a",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-32.png",
+      "url": "assets/image-32.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "a4896d71-2044-47a7-a81d-e1e9d2e970b3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "8fe66e29-22b7-4282-924a-13c104a2e01f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Structure Mode reveals the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Sections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " and ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " that were created in the Story Arc view, though functionality is limited. You can still re-color, rename, and re-order ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Sections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ". You can still create new ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Sections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ". However, you can only edit the active layout from the side bar. To toggle between layouts, please do so from the Story Arc view.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "97165671-553d-4ad0-b092-bb149a26792d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "7537b6b2-62cd-47f6-973c-29050ba4ba6a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Structure Mode toggled ON",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a720745d-9987-4359-81aa-116f29666cec",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-33.png",
+      "url": "assets/image-33.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "8301e833-acb7-4299-b946-0ca78d130ea0",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "20c33a41-a2a6-442c-b869-4c5a03fe19ca",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Structure Mode toggled OFF",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "051d4da8-970c-48a0-96ca-6cb733010745",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-34.png",
+      "url": "assets/image-34.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "eb23c025-9a7e-4415-963d-c21d9aff875c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "4fa93033-e6ea-40f3-931e-6a74ee93c22d",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Structure Mode Tools",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d9e3f502-6564-4f8b-857f-989327417dde",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "While in structure mode, create a new ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " by clicking ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "New Section",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " at the bottom of the Manuscript domain in the side bar. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a1268474-b1d6-4b70-bdab-ee8693c21751",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-35.png",
+      "url": "assets/image-35.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "f9b49fd5-e066-4f65-9c4e-0f31811bdeb3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "b48e8efd-4178-4c33-9c77-b23aa6728b71",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "To reveal other Structure Mode actions, hover over an existing ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " or ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsection",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " in the side bar to reveal its action icons.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1167db87-1a33-43a2-9b2e-a2c8cb26cbe7",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-36.png",
+      "url": "assets/image-36.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "376e6eba-7413-43be-ad65-e90e55466199",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Actions include: Add new ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsection",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", Delete ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", Re-color ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", or drag the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "'s handle to reorder the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ".",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d1819c9c-92af-4385-becd-30087827a8f5",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The Chevron on the left of the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " will collapse all chapters and scenes that are contained in the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ".",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d0a2b84b-05be-41b8-9808-5192ad5e5f1c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "d17543a0-e669-4eeb-a68a-e76254f1f684",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

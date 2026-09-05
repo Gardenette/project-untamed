@@ -1,0 +1,287 @@
+[
+  {
+    "id": "03c35514-7ce2-48f7-8ee8-c214f850974f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "This chapter covers how to manage the big-picture structures in a story using Foma's Story Arc tooling.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c946cd42-6a66-465f-b9ee-b09a3343b547",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "ce391378-d61c-4086-8d23-fe646b2b4d82",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "In this chapter, try:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "44eaf506-ff46-4c71-9df7-0906ec05ab0a",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Type ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/storyarc",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "  or ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/map",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " (Ctrl+Shift+M) to open the Story Arc view. Alternatively, you may click the Story Arc icon next to the Manuscript domain in the side bar.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8cc79f58-6b9a-4ad4-8a52-259ec073f716",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-11.png",
+      "url": "assets/image-11.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "bbff30c3-edb5-4f0c-8ba4-e127103f6f65",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Create a new ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " within the Story Arc view.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "629dd528-f91c-4e78-87b4-23a13b37ff3e",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Create a new ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsection",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " inside of a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ".",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "02b3db87-c72f-4bce-86f0-fe05a4691177",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Drag a scene from one ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section ",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "to another, then back.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4ce8040e-7fcb-4675-8c84-c4ce0fa1c2b3",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Drag a scene from the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "unassigned",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " zone to a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ".",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "47f2bd43-4fda-4334-b421-6f667e1ca84f",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "In the side bar, with Structure Mode toggled ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "on",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", drag a scene into a new order, then double-click a title to rename it.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "53cbf992-74ba-4825-bb80-753d31e0e9d3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

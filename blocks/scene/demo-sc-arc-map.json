@@ -1,0 +1,755 @@
+[
+  {
+    "id": "9b59dbff-fbbe-4292-bc33-53c3c8177cc7",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The Story Arc view presents a bird's-eye view of the story. It helps writers  visually map out the beats and pacing of their story, exposing its skeleton.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2fa91094-322e-43cf-8426-14d69e7a7d49",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "4d814908-86b5-4cde-b957-841c6230e6ce",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Open the Story Arc view by typing ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/storyarc",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " or ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/map",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " in the editor or by clicking the 'map' icon next to the Manuscript domain in the side bar.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "ea9bc209-9f44-4f80-ba22-151d78d2d397",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-14.png",
+      "url": "assets/image-14.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "ba90cce5-eeb9-475a-9058-54d13e6ce8e9",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "\nThe Story Arc view can be opened in its own window by clicking the 'pop out' button in the upper-right corner of the story arc view.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "cf86dc74-0270-436f-bd54-f904241e8013",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-13.png",
+      "url": "assets/image-13.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "55b7e483-b91e-435a-90d2-cd0280c3ecf5",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "22426201-651b-4ad6-b648-e6d5c92e1b12",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Layouts",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d1f08edb-adae-470c-bfff-2998ffa1ce9f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Foma includes several default ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Layouts ",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "that represent common organizational structures. By default, no layout is selected. To select a layout, click on the layout button in the upper-left corner of the screen (in this demo project, a layout has already been created for you called ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Demo Tour). ",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "bc23042b-e125-457f-a3d7-bd170b658fdb",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-12.png",
+      "url": "assets/image-12.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "7d5da29b-1ccd-409c-b9ad-4d23343d890a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "c6cd3d2d-25f0-4406-876c-ead33e87379d",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Templates",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "29b0b1c4-cea1-423c-903e-76155021f1dd",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Common story layouts can be configured from Templates.  Foma offers the following layouts out of the box: 3-Act Structure, 5-Act Structure, Hero's Journey, Save the Cat, or Game Structure. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e5e4f0dc-6f0e-4753-9883-5445a8c143aa",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "To change the layout of your story, click ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "New from Template",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " and select the template that fits your story and/or workflow.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "da0d6a16-d0b3-43f7-abd9-b3029ed85081",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-16.png",
+      "url": "assets/image-16.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "5ccc2394-bff3-481c-8be9-2c931d6fb832",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "024c7b8b-691f-48df-b0db-c3fdba970cce",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "To create your own Layout, click ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "+ New Blank Layout",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ". Once you are happy with your layout, you may save it as a template for future projects by clicking ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Save as Template",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ". ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "eec66671-bdc4-415f-9dc0-3db646a070c7",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "1293049e-dd7b-424f-b945-9a1f8a22dfaa",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Sections",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8282a6ec-b1d5-446a-af71-76930c0fb88d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "At the core, layouts are simply ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Sections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " and ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " in which you nest your chapters and scenes. To create a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", click ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "+ Add Section",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " at the bottom of the Story Arc view.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "13773ca4-a71a-4bab-ad34-a0ed265cd734",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-18.png",
+      "url": "assets/image-18.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "c320cbea-a559-44d2-be0d-84dc70ac6529",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Subsections",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "587dcd8f-b0bb-4919-9464-ac9762efcb2e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "For more complex structures, writers may find that they require further segmentation of their chapters and scenes. For example, Kaytastic's 27 chapter novel outline divides a story into 3 Acts, and each act is further subdivided into 3 units of 3 chapters each.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "99deb351-20ea-41d3-88f0-a06d2f74c53e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "To add ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " to a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", click the \"Folder +\" button inside of a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ".",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a3a1eb93-adff-4f8e-874c-63ea753763f6",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-20.png",
+      "url": "assets/image-20.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "7c1bdceb-d3f7-488d-9b28-d9360f188597",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Rename  a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " or ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsection",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " by double-clicking  its title, typing, then pressing ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Enter",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " to confirm.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4d423aed-2b0c-46cc-a91e-fa6be6f59565",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "A ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " with nested ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " might look something like this:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8861ba2a-47b5-459f-aa51-a3393e7eed73",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-22.png",
+      "url": "assets/image-22.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "03cdfbd4-4a46-4a17-9085-3ec210b70370",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "af577cb2-c5e2-49fd-b386-f1b660422335",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Arranging Chapters and Scenes",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d6165bc5-acf6-4d98-9b03-f52d46dd403f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Chapters can be added to a Layout by click-dragging the handle of the chapter in the \"Unassigned\" ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " to the right of the layout display and placing it inside of the desired ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " or ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subsection",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ".",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c68e5f16-c60f-4bbc-b756-6e2b012c260b",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-23.png",
+      "url": "assets/image-23.png",
+      "caption": "",
+      "showPreview": true,
+      "previewWidth": 672
+    },
+    "children": []
+  },
+  {
+    "id": "0d7c8b79-97a6-4526-98f8-f0dbacc52183",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "41f9a1ca-2a74-4c5a-b10e-0347cf9dc61f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

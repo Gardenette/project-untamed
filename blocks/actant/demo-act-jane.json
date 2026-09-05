@@ -1,0 +1,42 @@
+[
+  {
+    "id": "364b834f-e8b5-4f34-8896-5a87f2df846a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "A second character entry, here so scenes can show two linked names. Her alias \"Jane\" links to this same entry. Add your own aliases with ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/autolinks",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ". ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "be6a49d4-dc06-43f7-99fa-e970c39a665d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

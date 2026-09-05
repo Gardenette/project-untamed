@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6df58698-cbb7-4715-9225-a992801772fe",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "This entry opens whenever you click John Doe's linked name in a scene. Keep character notes here: role, voice, relationships, open questions. The notebook \"Using Notebooks\" backs this entry, so it is listed on this page as backing research. Use /autolinks to add more link words for this character.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a8c7c61b-c089-418a-909b-c329935273b4",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

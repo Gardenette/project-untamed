@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1196a1e2-8d3f-420d-b666-4cc56a6df0a1",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "This is a real, editable project. Nothing in it is precious: every \"Open Demo\" click creates a fresh copy, so change anything, break anything, and open a new copy whenever you like.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8a27f9c1-c685-4f25-b7a4-ad6cd0e2af9e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Each chapter teaches one feature area:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "299e8744-f251-4886-88fd-a86311c61adc",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Linking & Worldbuilding",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " — clickable names, aliases, and worldbuilding entries.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a8ab5141-7842-4d38-888a-c332dde048c6",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Threads & Pins",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " — track a planted detail through to its payoff.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "67106ed1-863c-456d-bdd9-8d06555b4643",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Story Arc & Structure",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " — see the whole draft and rearrange it.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d3379291-9592-4439-b8b2-67a986ae3f8d",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Workflow Tools ",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "— ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/dump",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/sift",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", Focus Mode, sprints, and Writing Stats.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "ebeb73d6-a232-4431-970e-85552edf69cc",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Drafting & Versioning ",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "— auto-save, cloud backup, versioning, and review features.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "eadff240-06d9-48e5-9669-ccb37c4f1105",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Read top to bottom or jump to whatever interests you. Each chapter carries its own notes with a short \"try this\" list — click the chapter title in the side bar to keep track of your checklists.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "5126a5d1-430c-490d-a9fc-f4471f5e58bc",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Two more places to look:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0e10438d-cf55-467b-bab5-445038ea15ca",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The Demo checklist (",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Worldbuilding → Story Notes",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ") tracks every exercise in one list.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e3209c62-246b-41be-a043-b95a256dc908",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The Notebook Shelf (type ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/notebooks",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ") holds a short notebook about notebooks, including a page of features this demo does not cover.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0f6d6383-e25b-4169-a473-1ee4651e739a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "demo-sc-start-version",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Foma Interactive Tutorial — v1.0.0",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  }
+]

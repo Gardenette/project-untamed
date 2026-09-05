@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1dbfa258-d881-4d6a-814e-ec69e860638f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Think of Git as an automatic, ultra-reliable time machine for your writing, and GitHub is a secure cloud-based vault that holds your Git-backed work.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0385fad6-32f3-4c28-a2c2-8ff1b2afa774",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "fa12656b-d0b9-4fc6-b448-0fa8174c5c3c",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "How it works",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "99231e7e-83c5-430f-9138-f153df4bfe64",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Whenever you write, Foma uses Git under the hood to capture precise snapshots of your progress. Rather than forcing you to juggle file names like ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Chapter_1_v2_final.md",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " or worrying about losing an earlier draft, Git tracks every phrase that you craft, rename, or delete across your entire project. Foma groups your snapshots into units called ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "memories ",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "so that you aren't saving loose pages. With Git, you're preserving complete units of creative work that you can look back on and manage later.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "522592f9-8b47-4093-a647-757cd9c98644",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "If you ever want to explore creative choices and directions that you made earlier, you can review them in the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Loremaster's Memory",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " menu, which is accessible in the upper-right corner of the title bar:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9e2b17bd-612e-47b8-8e50-942290daa1ec",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-58.png",
+      "url": "assets/image-58.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "2a12083e-f40c-48ac-ac40-f390300dbc79",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "abee27ee-1259-46b5-8fe4-51a9a3a8161d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Git allows you to instantly roll back your manuscript's content and structure to any previous state from the ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Loremaster's Memory",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " menu. More on this later.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c840246b-a6d1-4c0d-b804-16ffb0a5d217",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "f305282e-ae5b-4fcc-9b7f-7fcf0d97fc63",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Saving Memories to GitHub",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d6cc83b6-2077-4a6a-b568-cbf40f095fad",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "GitHub takes that local Git-backed safety net and connects it to the cloud. By syncing Foma with your GitHub account, your memories are continuously backed up to a private, remote server. ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "This means that your manuscript remains completely safe from device crashes, is accessible across all of your Foma-compatible devices, and is fully protected without requiring you to manage complex technical commands or worry about overwriting or misplacing your work.",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "76fe672c-8da1-42f1-8916-1705cd0ce9ee",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "e0047f16-591f-46d5-8395-18feb3c2a649",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Continue to the next ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "section",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": " to learn how to use Git/GitHub in your workflow.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "f78c0f29-c95d-4913-a454-54c7ffbdc312",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

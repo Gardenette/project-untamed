@@ -1,0 +1,650 @@
+[
+  {
+    "id": "344f3a42-ebe0-4367-bec4-9db286499ea9",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Summary Bio",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "67ba1c99-1cb0-4ad4-b98d-f8d34d98ddfc",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "This character illustrates how aliases and templates work. Typing Professor Gregory, Prof. Gregory, Gregory, or Greg will link to this Actant.",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "11b0686f-aa6e-4bd9-accf-3e480648c81c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "b6a36dbf-4282-44fe-bca8-b051bcbe9ada",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "501b2539-eae4-4950-813b-da6ec18ee7e7",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Basic Information",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c0241fa1-1767-48bb-946d-054557562dad",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Basics",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "6ecdef46-18b4-4198-ae91-3db622f25239",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "6'2\" tall (when he's not leaning against  the wall or riding his horse)",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d6de360c-b14e-4ec5-9086-a3a655dbf6c6",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "230 lbs.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "68b67cb0-1f00-4344-a4b2-2c1d1650575a",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Looks",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "7c3cde07-06e4-4c3d-a16b-c9b08f0a5c14",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Long, blonde hair that pokes out of his cowboy hat, unkempt. Grizzly beard. Grin that hides behind his mustache.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b4c2697b-c457-41c9-916b-0f69c3bdde05",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Style",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "3a877650-84e4-439e-82e7-e19a4fad1662",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Never seen without his cowboy hat or faded jeans. Tends to wear an elongated lab coat almost like an outlaw's duster jacket.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c183ccd1-6e8c-42bd-81e5-e829837296b2",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "5722cc41-4f00-4a79-8827-efb43cefd46f",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Personality",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "7ee21894-a3ca-49f1-a42b-5e318c8d87d5",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Professor ",
+        "styles": {}
+      },
+      {
+        "type": "fomaEmbed",
+        "props": {
+          "blockId": "blk-0bb7736f-8c81-40a6-86f9-599c47362123",
+          "blockTitle": "Gregory",
+          "blockType": "actant",
+          "bold": "false",
+          "italic": "false",
+          "strikethrough": "false",
+          "code": "false"
+        }
+      },
+      {
+        "type": "text",
+        "text": " isn't the kind of person you'd typically expect to work in a lab. In fact, if you didn't know him, you'd think he  spends his days herding cattle and his nights strumming his guitar by the campfire and sleeping under the stars. Nevertheless, he's a steadfast presence in the lab, and one would be foolish to mistake his lax stride and terse conversation for lack of intelligence.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "df74400b-49e6-4a9b-863e-0e133c0a3fbe",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Mannerisms",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e9ea96ac-6442-4125-92bb-11325c4163ef",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Walks with a lazy limp that somehow exudes a nonchalant swagger.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2c12b013-251d-495c-ac43-1609642053b9",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Diction",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e872b77b-ea61-49dc-b4a7-3eac205836a2",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Catchphrases",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "75fc664f-1bfa-44e8-8f59-ac210d792c15",
+    "type": "quote",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "\"Welp, that's just how it goes.\"",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "db1c5ddf-8d27-4340-93f5-2c9731ad248a",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "4955ed96-b4c5-4a23-b560-a1b86397350d",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Relationship Matrix",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "06ebdf01-b653-46ef-80fb-4cf9df834a76",
+    "type": "table",
+    "props": {
+      "textColor": "default"
+    },
+    "content": {
+      "type": "tableContent",
+      "columnWidths": [
+        null,
+        136,
+        null
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Character",
+                  "styles": {
+                    "bold": true
+                  }
+                }
+              ],
+              "props": {
+                "colspan": 1,
+                "rowspan": 1,
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              }
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Relationship",
+                  "styles": {
+                    "bold": true
+                  }
+                }
+              ],
+              "props": {
+                "colspan": 1,
+                "rowspan": 1,
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              }
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Notes",
+                  "styles": {
+                    "bold": true
+                  }
+                }
+              ],
+              "props": {
+                "colspan": 1,
+                "rowspan": 1,
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              }
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "fomaEmbed",
+                  "props": {
+                    "blockId": "demo-act-john",
+                    "blockTitle": "John",
+                    "blockType": "actant",
+                    "bold": "false",
+                    "italic": "false",
+                    "strikethrough": "false",
+                    "code": "false"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " Doe",
+                  "styles": {}
+                }
+              ],
+              "props": {
+                "colspan": 1,
+                "rowspan": 1,
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              }
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Friend",
+                  "styles": {}
+                }
+              ],
+              "props": {
+                "colspan": 1,
+                "rowspan": 1,
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              }
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "friends since childhood, but drifted apart in adulthood",
+                  "styles": {}
+                }
+              ],
+              "props": {
+                "colspan": 1,
+                "rowspan": 1,
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              }
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "fomaEmbed",
+                  "props": {
+                    "blockId": "demo-act-jane",
+                    "blockTitle": "Jane",
+                    "blockType": "actant",
+                    "bold": "false",
+                    "italic": "false",
+                    "strikethrough": "false",
+                    "code": "false"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " Doe",
+                  "styles": {}
+                }
+              ],
+              "props": {
+                "colspan": 1,
+                "rowspan": 1,
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              }
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Love interest",
+                  "styles": {}
+                }
+              ],
+              "props": {
+                "colspan": 1,
+                "rowspan": 1,
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              }
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "He's always taken interest in ",
+                  "styles": {}
+                },
+                {
+                  "type": "fomaEmbed",
+                  "props": {
+                    "blockId": "demo-act-jane",
+                    "blockTitle": "Jane",
+                    "blockType": "actant",
+                    "bold": "false",
+                    "italic": "false",
+                    "strikethrough": "false",
+                    "code": "false"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ", but never pursued her due to his relationship with her brother, ",
+                  "styles": {}
+                },
+                {
+                  "type": "fomaEmbed",
+                  "props": {
+                    "blockId": "demo-act-john",
+                    "blockTitle": "John",
+                    "blockType": "actant",
+                    "bold": "false",
+                    "italic": "false",
+                    "strikethrough": "false",
+                    "code": "false"
+                  }
+                }
+              ],
+              "props": {
+                "colspan": 1,
+                "rowspan": 1,
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "children": []
+  },
+  {
+    "id": "b1eec76d-5547-4a69-b788-0f51b5efa25f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "6fb4cf27-c512-4970-8e76-47ca484e207a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "0c77b3c8-7647-4532-a63c-177a110881ca",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

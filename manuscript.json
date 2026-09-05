@@ -1,0 +1,136 @@
+{
+  "chapters": [
+    {
+      "id": "demo-ch-start",
+      "type": "chapter",
+      "title": "Start Here",
+      "scenes": [
+        {
+          "id": "demo-sc-start",
+          "type": "scene",
+          "title": "How to use this demo"
+        }
+      ]
+    },
+    {
+      "id": "demo-ch-linking",
+      "type": "chapter",
+      "title": "Linking & Worldbuilding",
+      "scenes": [
+        {
+          "id": "demo-sc-link-click",
+          "type": "scene",
+          "title": "Click a linked name"
+        },
+        {
+          "id": "demo-sc-link-alias",
+          "type": "scene",
+          "title": "Aliases and auto-linking"
+        }
+      ]
+    },
+    {
+      "id": "demo-ch-threads",
+      "type": "chapter",
+      "title": "Threads & Pins",
+      "scenes": [
+        {
+          "id": "demo-sc-thread-plant",
+          "type": "scene",
+          "title": "Plant a Promise to the Reader"
+        },
+        {
+          "id": "demo-sc-thread-payoff",
+          "type": "scene",
+          "title": "Pay it off"
+        },
+        {
+          "id": "demo-sc-thread-place",
+          "type": "scene",
+          "title": "Place a pin yourself"
+        }
+      ]
+    },
+    {
+      "id": "demo-ch-arc",
+      "type": "chapter",
+      "title": "Story Arc & Structure",
+      "scenes": [
+        {
+          "id": "demo-sc-arc-map",
+          "type": "scene",
+          "title": "The 'Bones' of Story"
+        },
+        {
+          "id": "demo-sc-arc-move",
+          "type": "scene",
+          "title": "Moving things around"
+        },
+        {
+          "id": "blk-ae16b15e-2827-4c1d-bb57-eee66339a595",
+          "type": "scene",
+          "title": "Side Bar Structure View"
+        }
+      ]
+    },
+    {
+      "id": "demo-ch-tools",
+      "type": "chapter",
+      "title": "Workflow Tools",
+      "scenes": [
+        {
+          "id": "demo-sc-tools-capture",
+          "type": "scene",
+          "title": "Capture ideas with /dump and /sift"
+        },
+        {
+          "id": "demo-sc-tools-focus",
+          "type": "scene",
+          "title": "Focus Mode & Writing Sprints"
+        },
+        {
+          "id": "demo-sc-tools-stats",
+          "type": "scene",
+          "title": "Stats, search, and the Guide"
+        },
+        {
+          "id": "blk-89c70df7-8c0f-4042-9e31-37f3f48695b0",
+          "type": "scene",
+          "title": "Quality of Life Features"
+        }
+      ]
+    },
+    {
+      "id": "blk-de3e1828-296e-4c54-b5fc-d94d1a7e3b92",
+      "type": "chapter",
+      "title": "Git for Writers",
+      "scenes": [
+        {
+          "id": "blk-bcd9cddf-c8e3-4524-a583-207d31cbcff8",
+          "type": "scene",
+          "title": "Connecting to GitHub"
+        },
+        {
+          "id": "blk-25e66e7c-9c58-42e1-ba92-438b8d50c9b0",
+          "type": "scene",
+          "title": "What is Git?"
+        },
+        {
+          "id": "blk-aefb2972-ee7a-43f6-9ebf-2893912ab786",
+          "type": "scene",
+          "title": "Version Control in Foma"
+        },
+        {
+          "id": "blk-6e88d3c1-eba4-4673-b39b-4c6821c41b64",
+          "type": "scene",
+          "title": "Collaborating with other Foma Writers"
+        },
+        {
+          "id": "blk-304dd266-dd11-4769-9c91-eccc102aeb7c",
+          "type": "scene",
+          "title": "Managing Drafts"
+        }
+      ]
+    }
+  ]
+}

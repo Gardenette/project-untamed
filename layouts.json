@@ -1,0 +1,86 @@
+{
+  "layouts": [
+    {
+      "id": "demo-layout-main",
+      "name": "Demo Tour",
+      "createdAt": "2026-08-14T08:33:11.778Z",
+      "updatedAt": "2026-08-18T11:43:45.860Z",
+      "groups": [
+        {
+          "id": "demo-arc-start",
+          "label": "Start",
+          "color": "#7A8C99",
+          "children": [
+            {
+              "type": "chapter",
+              "chapterId": "demo-ch-start"
+            }
+          ]
+        },
+        {
+          "id": "demo-arc-linking",
+          "label": "Linking",
+          "color": "#6BA3A5",
+          "children": [
+            {
+              "type": "chapter",
+              "chapterId": "demo-ch-linking"
+            }
+          ]
+        },
+        {
+          "id": "demo-arc-threads",
+          "label": "Threads",
+          "color": "#D4A574",
+          "children": [
+            {
+              "type": "chapter",
+              "chapterId": "demo-ch-threads"
+            }
+          ]
+        },
+        {
+          "id": "demo-arc-structure",
+          "label": "Structure",
+          "color": "#8B7EC8",
+          "children": [
+            {
+              "type": "chapter",
+              "chapterId": "demo-ch-arc"
+            }
+          ]
+        },
+        {
+          "id": "demo-arc-tools",
+          "label": "Tools",
+          "color": "#81C784",
+          "children": [
+            {
+              "type": "chapter",
+              "chapterId": "demo-ch-tools"
+            }
+          ]
+        },
+        {
+          "id": "am-8b79ad3a-e2e8-4587-83cc-217e2ed93867",
+          "label": "Drafting & Versioning",
+          "color": "#64B5F6",
+          "children": [
+            {
+              "type": "chapter",
+              "chapterId": "blk-de3e1828-296e-4c54-b5fc-d94d1a7e3b92"
+            }
+          ]
+        },
+        {
+          "id": "story-arc:unassigned",
+          "label": "Unassigned",
+          "system": "unassigned",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "activeLayoutId": "demo-layout-main",
+  "userTemplates": []
+}

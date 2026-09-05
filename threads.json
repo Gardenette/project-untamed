@@ -1,0 +1,103 @@
+{
+  "threads": [
+    {
+      "id": "demo-thread-umbrella",
+      "type": "thread",
+      "title": "The umbrella pays off later",
+      "class": "plant_payoff",
+      "status": "paid_off",
+      "priority": "medium",
+      "linkedActantIds": [
+        "demo-act-umbrella"
+      ],
+      "pins": [
+        {
+          "pinId": "demo-pin-umb-plant",
+          "targetBlockId": "demo-sc-thread-plant",
+          "role": "plant",
+          "pinStatus": "confirmed",
+          "note": "The plant: the umbrella is left behind. Use pin notes like this one to record why a beat matters.",
+          "actantId": "demo-act-umbrella"
+        },
+        {
+          "pinId": "demo-pin-umb-payoff",
+          "targetBlockId": "demo-sc-thread-payoff",
+          "role": "pay_off",
+          "pinStatus": "confirmed",
+          "note": "The payoff: the planted object becomes useful. Click a pin in the Thread Manager to jump to its scene.",
+          "anchorText": " opened the  just as the rain started. \"What would I do without my ?\" she asked."
+        }
+      ]
+    },
+    {
+      "id": "demo-thread-practice",
+      "type": "thread",
+      "title": "Practice: place the loose pin",
+      "class": "transformation",
+      "status": "struggling",
+      "priority": "low",
+      "linkedActantIds": [
+        "demo-act-john",
+        "demo-act-jane"
+      ],
+      "pins": [
+        {
+          "pinId": "demo-pin-prac-status",
+          "targetBlockId": "demo-sc-thread-plant",
+          "role": "status_quo",
+          "pinStatus": "confirmed",
+          "note": "A transformation arc starts from a status quo. Pin roles come from the thread class, so each class offers its own vocabulary."
+        },
+        {
+          "pinId": "demo-pin-prac-struggle",
+          "targetBlockId": "demo-sc-thread-payoff",
+          "role": "struggle",
+          "pinStatus": "confirmed",
+          "note": "The middle beat of the arc. One beat of this thread is still unplaced."
+        },
+        {
+          "pinId": "demo-pin-prac-test",
+          "targetBlockId": "manuscript",
+          "role": "test",
+          "pinStatus": "unpinned",
+          "note": "Drag this pin from the Pincushion into the scene \"Place a pin yourself.\""
+        }
+      ]
+    },
+    {
+      "id": "blk-5e5407ca-0acf-4d49-a0b4-df2cd0aeff9d",
+      "type": "thread",
+      "title": "Understanding Threads & Pins",
+      "class": "plant_payoff",
+      "status": "planted",
+      "availableStatuses": [
+        "planted",
+        "nurtured",
+        "paid_off"
+      ],
+      "availablePriorities": [
+        "primary",
+        "secondary",
+        "minor"
+      ],
+      "pinToStatusMap": {
+        "plant": "planted",
+        "nurture": "nurtured",
+        "pay_off": "paid_off"
+      },
+      "autoAdvance": true,
+      "children": [],
+      "priority": "primary",
+      "pins": [
+        {
+          "pinId": "pin-5b478598",
+          "role": "plant",
+          "pinStatus": "confirmed",
+          "targetBlockId": "demo-sc-thread-plant",
+          "note": "This pin is planted to illustrate what a sentence-level pin looks like.",
+          "anchorText": "There is a text-level pin placed on this sentence tied to a Plant  & Payoff thread named \"Understanding Threads & Pins\"."
+        }
+      ]
+    }
+  ]
+}

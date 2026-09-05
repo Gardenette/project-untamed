@@ -1,0 +1,152 @@
+[
+  {
+    "id": "c2831bc6-c2db-413b-8aa7-b05e7985a2a3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "This chapter covers how Foma manages worldbuilding and linking worldbuilding features to the manuscript.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "21665ba9-8e14-4067-af22-db667183b029",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "e1c5ee40-18af-483f-b9a8-2f039e2eef4f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "In this chapter, try:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0fe410d9-ff22-4b85-a247-f572357e0d71",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Hover a highlighted name in \"Click a linked name,\" then click it to open the character page that backs it.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2dd80e46-cdcc-43e4-9596-393fcefcbb17",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Open the Worldbuilding panel and read the entries for John Doe, Jane Doe, The Coffee Shop, and The Umbrella.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1664fc9e-6ef7-4088-8c0a-d6c644388210",
+    "type": "checkListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "In \"Aliases and auto-linking,\" type ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/autolinks",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " and add \"JD\" as a link word for John Doe. Type JD in the scene to test it.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "be78c5c4-ea76-488e-8c30-c18795214ec0",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "7c452198-e1b1-4f85-8b14-93ccfb4c701a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Read the scenes inside of this chapter starting with \"Click a linked name\".",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "62b2e4e1-f084-4768-baf1-7cc27e2bad8b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

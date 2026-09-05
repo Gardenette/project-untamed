@@ -1,0 +1,34 @@
+{
+  "notebooks": [
+    {
+      "id": "demo-nb-howto",
+      "type": "notebook",
+      "title": "Using Notebooks",
+      "color": "#64B5F6",
+      "labels": [
+        "how-to",
+        "demo"
+      ],
+      "backs": [
+        "demo-act-john"
+      ],
+      "children": [
+        {
+          "id": "demo-nbpage-basics",
+          "type": "note",
+          "title": "Notebook basics"
+        },
+        {
+          "id": "demo-nbpage-organize",
+          "type": "note",
+          "title": "Spine colors, labels, and backing"
+        },
+        {
+          "id": "demo-nbpage-untried",
+          "type": "note",
+          "title": "Features you have not tried yet"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Foma internal
+.foma/
+
+# OS files
+.DS_Store
+Thumbs.db

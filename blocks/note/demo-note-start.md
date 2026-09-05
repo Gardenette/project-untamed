@@ -1,0 +1,12 @@
+- [ ] Read "How to use this demo" in the Start Here chapter.
+- [ ] Click John Doe's highlighted name in a scene and read his worldbuilding entry.
+- [ ] Add the alias "JD" to John Doe with /autolinks, then type JD in a scene.
+- [ ] Open /threads and read the pins of "The umbrella pays off later."
+- [ ] Open the Pincushion and hide/show pins with the eye toggle.
+- [ ] Drag the unplaced pin into "Place a pin yourself."
+- [ ] Open the Story Arc with /map and find the six color groups.
+- [ ] Drag a scene to a new spot in the side bar, then drag it back.
+- [ ] Capture an idea with /dump, then review it with /sift.
+- [ ] Write for a minute in Focus Mode (/focus).
+- [ ] Open Writing Stats from the title bar.
+- [ ] Open the Bookshelf with /notebooks and read "Using Notebooks."

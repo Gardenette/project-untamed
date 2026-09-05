@@ -1,0 +1,773 @@
+[
+  {
+    "id": "e5d4acfe-13c1-4964-94a3-6f7ace15b3f2",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Arranging Chapters and Scenes",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4fff9507-9cb8-447b-856a-93f39f539f20",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Once a chapter has been placed in a ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", it displays as a notecard with the chapter's block text as its notecard summary. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d320233d-619b-4c59-ab83-49cefab4de6b",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-24.png",
+      "url": "assets/image-24.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "9561fac5-cae2-4848-957d-976ea5c0aea2",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "966959ad-4ee8-433f-9785-d56cb35dbaa9",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Chapters default to a collapsed state, meaning its scenes are hidden beneath the chapter's notecard. To expand the chapter and reveal its scenes, click on the chapter's notecard.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0a540cca-169b-441a-85ea-8a0cfb921e9c",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-25.png",
+      "url": "assets/image-25.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "06c0b2f9-41d5-4d11-aed7-4d3d44ee9827",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "b119e427-f74c-4805-b980-bf3b43e98c2b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The more scenes a chapter has, the more cards display under the collapsed chapter to give a sense of the chapter's scene density:",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1e14ad91-9f87-468f-8b65-5137db7b4690",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "9e5d21b8-c1da-43e6-a437-b6cf62d0b225",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Collapsed",
+        "styles": {
+          "bold": true,
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "50c8d484-533b-4070-8bbf-ed33dbca72d9",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-27.png",
+      "url": "assets/image-27.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "44e2c29f-088b-433c-88f6-997f34dfd754",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "54900285-4c04-4707-81ae-28d58a652f33",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Expanded",
+        "styles": {
+          "bold": true,
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "ce6f3e6c-9716-4eec-a34e-f8ab6469cf94",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-26.png",
+      "url": "assets/image-26.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "2f36da8c-fb50-41ea-9065-7354a4ea0f4f",
+    "type": "callout",
+    "props": {
+      "textAlignment": "left",
+      "textColor": "default",
+      "icon": "💬"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Note: a scene's notecard previews its content.",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "03f08f46-4c89-4c8e-ae1a-29749f91cce8",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "c15f31b4-e625-40f6-80e7-563b45d523a0",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "0cd38e43-26c2-4b66-a198-9ca353af5d71",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Chapters within Sections",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "664878a4-e9b6-4519-aaaf-ff13ac27a9a5",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "To arrange and re-arrange chapters within ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Sections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", click-drag its handle and place it in the desired location.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "dbd6daca-dfe0-4b96-98e2-6c2a049bd750",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-28.png",
+      "url": "assets/image-28.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "c8a285f9-8ea8-4cf3-817e-5f6d41286c48",
+    "type": "callout",
+    "props": {
+      "textAlignment": "left",
+      "textColor": "default",
+      "icon": "💬"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "NOTE: Re-arranging chapters within Sections will trigger a confirmation dialog at the bottom of the screen if it changes the overall manuscript order. If you're moving chapters within Sections or Subsections without altering the manuscript sequence, your changes are saved automatically.",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "fe0ef49c-3d8f-473b-8d53-694576f8b79a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "0e313db6-4d55-4dde-b0d9-7ec68d1840c3",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Scenes within & across chapters",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "405a537c-e85a-4bd8-8f0d-6c795c798726",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Scenes may be re-ordered within a chapter by click-dragging the scene and dropping it before or after another scene within the chapter. Scenes may also be dragged between chapters. If a scene is dragged from one chapter to another, it will automatically be placed as the last scene in the chapter. After it has been dropped at the end of the chapter, it can be dragged again to be re-arranged within its new chapter.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b971b838-8782-4630-8b04-58ce19b2f8f6",
+    "type": "callout",
+    "props": {
+      "textAlignment": "left",
+      "textColor": "default",
+      "icon": "💬"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "NOTE: clicking a scene without dragging it will navigate to the scene in the editor pane.",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "fc2ba231-dd99-4bfc-8949-9d8c5e8105a8",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Scenes across Sections",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "ee04483c-8b26-4f56-a387-733399db1d3d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "On rare occasions, a scene may need to stand alone between ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Sections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "—for example, when the penultimate scene of Chapter 5 marks the end of Act 1, and the next scene (also in Chapter 5) begins Act 2. You can create these ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Orphaned Scenes",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " by dragging a scene from the end of a chapter directly into the next ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ". Orphaned scenes can only sit at the boundary between ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Sections",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ". To place an orphaned scene anywhere else in the new ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", you must first ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "assign it to a chapter",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " inside that ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ".",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "aacac4b9-eb44-43d6-9891-310ecdfea27a",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-29.png",
+      "url": "assets/image-29.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "ed6ee0ed-3536-4249-a3f4-2e68e4f0419f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "322f9643-e64a-48c6-ac78-6909e481df8a",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Hide/Show Pins",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "cfdbdee6-eef7-40b5-8d5a-460002f3230c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "A scene that has pins assigned displays its pins in the Story Arc view across the bottom of the scene's card. Hover over the pin with the cursor to inspect it.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0960e62c-86d0-4697-b81c-0b91675a8a2d",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-30.png",
+      "url": "assets/image-30.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "2f55f270-6b00-4065-bd8b-9bc596e81699",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "1e485f67-18e5-4ad3-8c2b-e9ac55b1cb6e",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Pin Filters",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "62835559-34f7-43f8-9129-decac79b9a56",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Pins can be filtered by role by clicking the filters across the top of the story arc page.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2420d70b-5e74-4ff8-9833-c39e50a1f6ee",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Example: clicking the Setup / Payoff filter will highlight only Setup / Payoff pins.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c6318b3c-36be-4dca-a3f9-dbd0847c0481",
+    "type": "image",
+    "props": {
+      "textAlignment": "left",
+      "backgroundColor": "default",
+      "name": "image-31.png",
+      "url": "assets/image-31.png",
+      "caption": "",
+      "showPreview": true
+    },
+    "children": []
+  },
+  {
+    "id": "1bfa8880-11bd-4fcd-8523-a96f7f084a4a",
+    "type": "divider",
+    "props": {},
+    "children": []
+  },
+  {
+    "id": "7ec63235-eea8-447a-809a-77877e34afbe",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Changing Layouts",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "28b0b362-7a7a-4546-a89a-6f10be385540",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Multiple layouts for a story can co-exist at once. If you're struggling to decide which layout best expresses the shape of your story, try creating different layouts. Only one layout can be active at once.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "7c14a07b-c585-4850-a22a-ca13806eb7d0",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "If you create separate layouts and create additional scenes and chapters using only one of those layouts, changing the active layout will move all of the new chapters and scenes to the Unassigned ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Section",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " so that you can define where they are meant to be placed in the new structure.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "873b2bbc-d95e-4282-b9fb-73f7b5d24573",
+    "type": "callout",
+    "props": {
+      "textAlignment": "left",
+      "textColor": "default",
+      "icon": "💬"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "NOTE: if there are differences in manuscript chapter/scene order between layouts, those changes will reflect in the Manuscript domain of the side bar as you toggle between them — no need to worry about re-arranging chapters and scenes and hoping you don't regret re-arranging them.",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b761ab3c-c7e5-4000-b102-7b1805e90b91",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "demo-note-start-task-1",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Read \"How to use this demo\" in the Start Here chapter.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-2",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Click John Doe's highlighted name in a scene and read his worldbuilding entry.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-3",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Add the alias \"JD\" to John Doe with /autolinks, then type JD in a scene.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-4",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Open /threads and read the pins of \"The umbrella pays off later.\"",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-5",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Open the Pincushion and hide/show pins with the eye toggle.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-6",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Drag the unplaced pin into \"Place a pin yourself.\"",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-7",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Open the Story Arc with /map and find the six color groups.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-8",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Drag a scene to a new spot in the side bar, then drag it back.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-9",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Capture an idea with /dump, then review it with /sift.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-10",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Write for a minute in Focus Mode (/focus).",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-11",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Open Writing Stats from the title bar.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "demo-note-start-task-12",
+    "type": "checkListItem",
+    "props": {
+      "checked": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Open the Bookshelf with /notebooks and read \"Using Notebooks.\"",
+        "styles": {}
+      }
+    ],
+    "children": []
+  }
+]

@@ -1,0 +1,713 @@
+[
+  {
+    "id": "7a84ccd0-4fa3-4c8a-8e03-700c80230b46",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "These features are non-essential, but when considered together, can contribute to a much smoother workflow and writing experience.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "6e58676b-cd9f-4c2a-ad8d-a69ffe1ab906",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "a2749e9b-e7c0-44dc-be80-ce0dc0779436",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Editor Settings & Features",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4de16017-e79e-4869-b2bd-85bf79bd8550",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Auto-capitalize 'I'",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " — from ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Settings → Editor",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", toggle \"Auto-capitalize I\" to ensure that, when writing in first person perspective, you never have to hold Shift or Caps Lock for the letter 'i' to correct to 'I' when typed in isolation.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "5afc90c7-fa12-4616-8b1c-ebb264627866",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Home Row Workflow",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " — Almost anything you wish to accomplish in Foma can be done with both hands on the keyboard. Foma contains a robust slash command palette that exposes virtually every feature, function, or formatting action by typing ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ". ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "81376ab6-7622-4c86-8959-15b356189020",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Markdown Syntax Shortcuts",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " — Foma respects Markdown formatting. For example, while an H1 can be created by typing ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/heading1",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", it can also be created by beginning a new line and typing ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "#",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " + space. Most markdown syntax converts to formatting in the editor.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9ffd84ef-94fc-4e1d-b59d-8e711b9a8151",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Markdown Copy/Paste",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " — Markdown syntax that is pasted into Foma automatically converts to formatted text.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "6d716247-27b5-40be-abe9-fb0b7191c722",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Auto-indent on Enter",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " — from ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Settings → Editor",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", toggle this on to automatically indent each new paragraph by default.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "cec4dd5a-24b6-454f-a37c-0c3e39ad10cd",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Scene-level reading estimation",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " — The current document is given an estimation on how long the scene is, reflected as either \"time to read\" or \"number of pages\". The bottom-right corner of the footer bar displays the estimation. To toggle between views, simply click on the estimation.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0050d27b-143b-4705-b240-c6f194e5da9e",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Actant Link Settings ",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "— By default, ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Actant",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " Links are styled as \"",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subtle",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "\", meaning that they do not draw any attention to themselves while reading text in the Editor. The only way to know if an ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Actant",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " is linked to a word in the manuscript is to inspect the word with the cursor. However, if you prefer to see all linked ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Actants",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " more prominently at a glance, navigate to ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Settings → Editor → Link style",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " and choose whether you prefer ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Subtle",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Moderate",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", or ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Prominent ",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "styling.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8da696fc-527b-4d2a-a3e7-b303bea06995",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "c014d8d3-eacf-4bac-83e7-6b1f51b8e25d",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Import & Export Features",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "6cdc2824-676b-481a-875f-7ba5e0a3686a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Foma offers flexible, powerful import and export capabilities.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9faf713a-6b90-46c5-8eff-a1eb7e911cc7",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Import Wizard",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "38c6bd11-9a24-42e2-9fc9-88390de29cb2",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Stories that have been outlined in Plottr or written in Scrivener can be imported into Foma using the Import Wizard. When creating a new project, once you've chosen the location where the Foma project will be saved, select Plottr or Scrivener import and use the Wizard to guide you through import options. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "447beb61-5d62-4826-a39a-4926ffa70d51",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "The Foma Import Wizard previews the story structure to make it easier to make informed decisions about how your outline or manuscript will convert to Foma conventions.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8060e8d3-d95d-41db-8460-3df83f62d067",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "0aca6435-bc20-4cb2-a157-ba07d1c140e2",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Exports",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "ecf188a6-5bd0-4e3d-be08-3155f436dfef",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Foma projects can be exported in ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": ".docx",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": ".pdf",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ", or ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": ".epub",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " formats. Foma also features a dedicated, lean eBook reader in which you can preview your story as an eBook before committing to an ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": ".epub",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " export. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9faea157-d2f2-4375-9793-741df0325891",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "59f1eda2-9644-44f8-a71b-237876225fa1",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Export your project through ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Settings → Tools → Export Manuscript",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " or by typing ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/export",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " in the editor.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "7e8e2c81-62f3-4a21-ae35-2b1c05e6f5e0",
+    "type": "bulletListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "View your project as an eBook through ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Settings → Tools → EPUB Reader",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " or by typing ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "/read",
+        "styles": {
+          "code": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " in the editor.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "76c9061f-9380-4133-a140-3e8fd799e8cb",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "099a2405-e373-401c-8435-5b126b48ed91",
+    "type": "callout",
+    "props": {
+      "textAlignment": "left",
+      "textColor": "default",
+      "icon": "💬"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "NOTE: Future versions of Foma will contain front/back matter support, querying support, and additional features to help writers distribute/annotate work within critique circles and get feedback from beta readers.",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "293363da-6c48-4ddb-80c5-4342691b1d58",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "bc30595d-54a8-4612-b2ac-adc971027cc8",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

@@ -1,0 +1,1 @@
+Location entries. Use them for setting rules, continuity constraints, and details you want scenes to reuse.
