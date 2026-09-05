@@ -12,14 +12,6 @@
       ],
       "pins": [
         {
-          "pinId": "demo-pin-umb-plant",
-          "targetBlockId": "demo-sc-thread-plant",
-          "role": "plant",
-          "pinStatus": "confirmed",
-          "note": "The plant: the umbrella is left behind. Use pin notes like this one to record why a beat matters.",
-          "actantId": "demo-act-umbrella"
-        },
-        {
           "pinId": "demo-pin-umb-payoff",
           "targetBlockId": "demo-sc-thread-payoff",
           "role": "pay_off",
@@ -42,26 +34,11 @@
       ],
       "pins": [
         {
-          "pinId": "demo-pin-prac-status",
-          "targetBlockId": "demo-sc-thread-plant",
-          "role": "status_quo",
-          "pinStatus": "confirmed",
-          "note": "A transformation arc starts from a status quo. Pin roles come from the thread class, so each class offers its own vocabulary."
-        },
-        {
           "pinId": "demo-pin-prac-struggle",
           "targetBlockId": "demo-sc-thread-payoff",
           "role": "struggle",
           "pinStatus": "confirmed",
           "note": "The middle beat of the arc. One beat of this thread is still unplaced."
-        },
-        {
-          "pinId": "demo-pin-prac-test",
-          "targetBlockId": "demo-ch-threads",
-          "role": "test",
-          "pinStatus": "confirmed",
-          "note": "Drag this pin from the Pincushion into the scene \"Place a pin yourself.\"",
-          "anchorText": "payoffs"
         }
       ]
     },
@@ -89,16 +66,7 @@
       "autoAdvance": true,
       "children": [],
       "priority": "primary",
-      "pins": [
-        {
-          "pinId": "pin-5b478598",
-          "role": "plant",
-          "pinStatus": "confirmed",
-          "targetBlockId": "demo-sc-thread-plant",
-          "note": "This pin is planted to illustrate what a sentence-level pin looks like.",
-          "anchorText": "There is a text-level pin placed on this sentence tied to a Plant  & Payoff thread named \"Understanding Threads & Pins\"."
-        }
-      ]
+      "pins": []
     }
   ]
 }

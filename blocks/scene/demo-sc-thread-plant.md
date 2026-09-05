@@ -1,4 +1,4 @@
-A *thread&#x20;*&#x74;racks a promise to the reader: a detail planted early that should matter later. Pins mark where each beat of a *Thread* lands in the manuscript.
+A *Thread&#x20;*&#x74;racks a promise to the reader: a detail planted early that should matter later. Pins mark where each beat of a *Thread* lands in the manuscript.
 
 The passage below is a planted detail. This scene holds the "plant" pin of the *Thread* "The umbrella pays off later."
 
