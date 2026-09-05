@@ -7,7 +7,7 @@ Click on the 'eye' toggle to view the pins that are assigned to this scene. You 
 
 💬
 
-*Try this: open the Pincushion (the floating pin icon in the editor) and find the unplaced pin. Drag it into a paragraph here to anchor it. That is the whole workflow: decide where a *Thread* touches the draft, then drop the pin there.*
+*Try this: open the Pincushion (the floating pin icon in the editor) and find the unplaced pin. Drag it into a paragraph here to anchor it. That is the whole workflow: decide where a Thread touches the draft, then drop the pin there.*
 
 Place the pin on this line.
 
