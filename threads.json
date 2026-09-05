@@ -57,10 +57,11 @@
         },
         {
           "pinId": "demo-pin-prac-test",
-          "targetBlockId": "manuscript",
+          "targetBlockId": "demo-ch-threads",
           "role": "test",
-          "pinStatus": "unpinned",
-          "note": "Drag this pin from the Pincushion into the scene \"Place a pin yourself.\""
+          "pinStatus": "confirmed",
+          "note": "Drag this pin from the Pincushion into the scene \"Place a pin yourself.\"",
+          "anchorText": "payoffs"
         }
       ]
     },

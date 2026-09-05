@@ -97,3 +97,5 @@ John met Jane at the coffee shop again. The umbrella stayed home this time.
 ### Activity
 
 Try this: type `/autolinks` to open Auto-link Actants. Add "JD" as a link word for John Doe, then type JD on a new line below and watch it turn into a link.
+
+JD
