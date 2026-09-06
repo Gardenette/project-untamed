@@ -3,5 +3,8 @@ Foma is equipped with many tools to close the distance between planning, organiz
 In this chapter, try:
 
 * [ ] `/dump` a stray idea mid-scene, then `/sift` it back into the draft.
+
+this is a dump this is a sprint. I guess.
+
 * [ ] `/focus` for a clean writing surface; `/dim` inside Focus Mode to fade out everything except for the paragraph in-progress.
 * [ ] `/sprint` for a timed Writing Sprint, then open Writing Stats from the title bar to view your writing stats from your sprint.
