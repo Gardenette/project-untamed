@@ -7,5 +7,6 @@
   "projectType": "novel",
   "demoSample": true,
   "actantClasses": [],
-  "tutorialVersion": "1.0.0"
+  "tutorialVersion": "1.0.0",
+  "gameWritingTools": true
 }
