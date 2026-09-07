@@ -1,6 +1,6 @@
 Foma projects live on your computer, comprised of almost entirely of human-readable files that belong to you. Connecting Foma to GitHub gives those files a second home: a private, cloud-based **Archive** that holds the complete history of your project and keeps it safe from spilled coffee, dying hard drives, and every other catastrophe the physical world has to offer.
 
-Connecting takes about two minutes, requires no Foma account, and costs nothing. There are two connections to make: sign in to GitHub once on your computer, then link each project you want backed up.test
+Connecting takes about two minutes, requires no Foma account, and costs nothing. There are two connections to make: sign in to GitHub once on your computer, then link each project you want backed up.
 
 ***
 
