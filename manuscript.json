@@ -129,6 +129,11 @@
           "id": "blk-304dd266-dd11-4769-9c91-eccc102aeb7c",
           "type": "scene",
           "title": "Managing Drafts"
+        },
+        {
+          "id": "blk-3c77e56d-c76d-4e34-b4f2-d493b4a00c72",
+          "type": "scene",
+          "title": "Test scene for discarding changes"
         }
       ]
     }
